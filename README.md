@@ -1,2 +1,2 @@
 # first-repo
-my first github repo
+this is a c prgrm to print hello world
